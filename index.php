@@ -12,6 +12,9 @@
     </head>
 
     <body bgcolor="#0033CC">
+        <script type="text/javascript">
+            ajax.get('/index.php', {foo: 'bar'}, function() {console.log("requested")});
+        </script>
         <div class="container">
             <div class="hero-unit">
                 <h1><font face="verdana" color="yellow">Doobie Simple PHP Test Application - re-retesting notification toast</font></h1>
