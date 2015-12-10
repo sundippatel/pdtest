@@ -17,7 +17,7 @@
         </script>
         <div class="container">
             <div class="hero-unit">
-                <h1><font face="verdana" color="yellow">Doobie Simple PHP Test Application - re-retesting notification toast</font></h1>
+                <h1><font face="verdana" color="yellow">Simple PHP Test Application - re-retesting notification toast</font></h1>
                 <br>
                 <br>
                 <p><font face="verdana" color="yellow" size="5">This simple PHP test application was deployed in a Runnable Sandbox!</font></p>
